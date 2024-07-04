@@ -1,0 +1,7 @@
+tensorflow
+librosa
+tflite-runtime
+numpy
+h5py
+pydub
+gtts
